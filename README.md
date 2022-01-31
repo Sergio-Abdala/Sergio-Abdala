@@ -1,7 +1,4 @@
-- 👋 Hi, I’m @Sergio-Abdala
-- 👀 I’m interested in web technology...
-- 🌱 I’m currently skills HTML, CSS, PHP, JAVASCRIPT...
-- 📫 How to reach me sergioabdala@gmail.com
+<h1>sergio-abdala.github.io</h1>
 
 <!---
 Sergio-Abdala/Sergio-Abdala is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
